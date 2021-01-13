@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1417px" height="1417px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1417 1417"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil5 {fill:none}
+    .fil6 {fill:#DCDDDF}
+    .fil4 {fill:#BDBFC1}
+    .fil3 {fill:#F7D473}
+    .fil0 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+    .fil1 {fill:url(#id2)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="997.35" y1="209.68" x2="681.52" y2="1365.82">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F7D473"/>
+   <stop offset="0.309804" style="stop-opacity:1; stop-color:#AE933D"/>
+   <stop offset="0.631373" style="stop-opacity:1; stop-color:#F7D473"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A4883E"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="1226.83" y1="389.46" x2="919.8" y2="1535.31">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BDBFC1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#848688"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="761.2" y1="139.5" x2="404.6" y2="1470.35">
+   <stop offset="0" style="stop-opacity:1; stop-color:#152964"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#11132D"/>
+  </linearGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2168140340384">
+   <path class="fil0" d="M894.89 164.32c71.99,23.94 137.81,61.37 194.49,109.27 -92.2,344.11 -184.41,688.22 -276.61,1032.33 -33.85,6.04 -68.69,9.18 -104.27,9.18 -39.39,0 -77.87,-3.89 -115.11,-11.25l301.5 -1139.53z"/>
+   <path class="fil1" d="M708.5 134.27c52.91,0 104.18,7 152.98,20.05l-61.14 228.16c-29.29,-7.84 -60.07,-12.04 -91.84,-12.04 -195.65,0 -354.25,158.6 -354.25,354.25 0,163.98 111.43,301.91 262.69,342.28l-61.14 228.16c-252.05,-67.31 -437.72,-297.18 -437.72,-570.44 0,-326.08 264.34,-590.42 590.42,-590.42z"/>
+   <path class="fil2" d="M1118.91 300.28c110.99,107.34 180.01,257.81 180.01,424.41 0,276.69 -190.35,508.9 -447.24,572.89l79.74 -297.59c80.11,-64.95 131.33,-164.14 131.33,-275.3 0,-44.8 -8.34,-87.65 -23.51,-127.1l79.67 -297.31z"/>
+   <path class="fil3" d="M904.24 130.16l7.58 -28.26 223.81 0 -35.76 133.33c-60.42,-47.01 -125.4,-82.61 -195.63,-105.07z"/>
+   <path class="fil4" d="M1090.51 724.69c0,-12.15 -0.59,-24.16 -1.7,-36.02l158.7 -72.2c6.98,34.99 10.67,71.17 10.67,108.22 0,7.11 -0.14,14.19 -0.41,21.23l-167.26 -21.23z"/>
+   <line class="fil5" x1="1118.91" y1="300.28" x2="1106.33" y2= "346.84" />
+   <path class="fil6" d="M1040.13 1163.06l-93.25 -139.88c38.22,-30.56 70.43,-68.31 94.61,-111.19l139.79 93.19c-36.47,61.33 -84.51,114.97 -141.15,157.88z"/>
+   <path class="fil6" d="M1090.51 724.69c0,-12.15 -0.59,-24.16 -1.7,-36.02l158.7 -72.2c6.98,34.99 10.67,71.17 10.67,108.22 0,7.11 -0.14,14.19 -0.41,21.23l-167.26 -21.23z"/>
+  </g>
+ </g>
+</svg>
